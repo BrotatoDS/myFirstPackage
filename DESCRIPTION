@@ -1,0 +1,10 @@
+Package: myFirstPackage
+Type: Package
+Title: Testing various methods
+Version: 0.1.0
+Author: Daniel Sulas
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Just testing methods and using version control
+License: None :P
+Encoding: UTF-8
+LazyData: true
